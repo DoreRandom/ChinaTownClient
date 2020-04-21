@@ -21,7 +21,8 @@ server 其中一个网关的ip,port<br>
 https://github.com/DoreRandom/ChinaTownServer
 
 ## Demo
-http://www.woodgame.top/client/商业街安装程序.exe
+http://www.woodgame.top/client/商业街安装程序.exe<br>
+暂不支持语音聊天，建议进行游玩时使用YY，QQ等语音连线。
 
 ## 缺陷较多
 本客户端实现较为简单，在众多方面存在问题，欢迎各位大佬给予指导。1767922548@qq.com
