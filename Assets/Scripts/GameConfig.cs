@@ -6,13 +6,11 @@ public class GameConfig
 {
     public const string GameName = "ChinaTown";
 
-    public const string Url = "http://www.woodgame.top/";
+    public const string Url = "http://www.woodgame.top/"; //资源地址
 
-    public const string Version = "0.0.2";
+    public const string Version = "0.0.2"; //当前版本号
 
-    public const string AssetBundleOutputPath = "C:/Users/Administrator/Desktop/Server";
-
-    public const string AssetBundleDiffFolder = "Diff";
+    public const string AssetBundleOutputPath = "C:/Users/Administrator/Desktop/Server"; //ab打包输出位置
 
     public const string AssetTail = ".unity3d";
 
@@ -99,17 +97,5 @@ public class GameConfig
         ret = FileHelper.UnixPath(ret);
         return ret;
     }
-
-    /// <summary>
-    /// 获得差异路径
-    /// </summary>
-    /// <returns></returns>
-    public static string GetAssetBundleDiffPath()
-    {
-        string ret = Path.Combine(AssetBundleOutputPath,AssetBundleDiffFolder, Platform.GetRuntimePlatform());
-        ret = FileHelper.UnixPath(ret);
-        return ret;
-    }
-
 
 }

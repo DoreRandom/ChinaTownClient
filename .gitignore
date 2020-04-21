@@ -1,0 +1,7 @@
+.vs
+ChinaTown
+Library
+UnityPackageManager
+Temp
+*.csproj
+*.sln
