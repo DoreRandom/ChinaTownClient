@@ -1,0 +1,767 @@
+ManifestFileVersion: 0
+CRC: 2135302177
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: chinatown/audio/bgm.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: chinatown/audio/click.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: chinatown/effect/ui/10001/animation/animation.unity3d
+      Dependencies: {}
+    Info_3:
+      Name: chinatown/effect/ui/10001/prefab/prefab.unity3d
+      Dependencies:
+        Dependency_0: chinatown/effect/ui/10001/animation/animation.unity3d
+        Dependency_1: chinatown/image/icon/signaleffect.unity3d
+    Info_4:
+      Name: chinatown/font/pixel.unity3d
+      Dependencies: {}
+    Info_5:
+      Name: chinatown/image/background/chat.unity3d
+      Dependencies: {}
+    Info_6:
+      Name: chinatown/image/background/map.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: chinatown/image/background/map_fix.unity3d
+      Dependencies: {}
+    Info_8:
+      Name: chinatown/image/background/player.unity3d
+      Dependencies: {}
+    Info_9:
+      Name: chinatown/image/background/roomchat.unity3d
+      Dependencies: {}
+    Info_10:
+      Name: chinatown/image/background/selection.unity3d
+      Dependencies: {}
+    Info_11:
+      Name: chinatown/image/background/shop.unity3d
+      Dependencies: {}
+    Info_12:
+      Name: chinatown/image/head/head_1.unity3d
+      Dependencies: {}
+    Info_13:
+      Name: chinatown/image/head/head_10.unity3d
+      Dependencies: {}
+    Info_14:
+      Name: chinatown/image/head/head_11.unity3d
+      Dependencies: {}
+    Info_15:
+      Name: chinatown/image/head/head_12.unity3d
+      Dependencies: {}
+    Info_16:
+      Name: chinatown/image/head/head_13.unity3d
+      Dependencies: {}
+    Info_17:
+      Name: chinatown/image/head/head_14.unity3d
+      Dependencies: {}
+    Info_18:
+      Name: chinatown/image/head/head_15.unity3d
+      Dependencies: {}
+    Info_19:
+      Name: chinatown/image/head/head_16.unity3d
+      Dependencies: {}
+    Info_20:
+      Name: chinatown/image/head/head_17.unity3d
+      Dependencies: {}
+    Info_21:
+      Name: chinatown/image/head/head_18.unity3d
+      Dependencies: {}
+    Info_22:
+      Name: chinatown/image/head/head_19.unity3d
+      Dependencies: {}
+    Info_23:
+      Name: chinatown/image/head/head_2.unity3d
+      Dependencies: {}
+    Info_24:
+      Name: chinatown/image/head/head_20.unity3d
+      Dependencies: {}
+    Info_25:
+      Name: chinatown/image/head/head_21.unity3d
+      Dependencies: {}
+    Info_26:
+      Name: chinatown/image/head/head_22.unity3d
+      Dependencies: {}
+    Info_27:
+      Name: chinatown/image/head/head_23.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: chinatown/image/head/head_24.unity3d
+      Dependencies: {}
+    Info_29:
+      Name: chinatown/image/head/head_25.unity3d
+      Dependencies: {}
+    Info_30:
+      Name: chinatown/image/head/head_26.unity3d
+      Dependencies: {}
+    Info_31:
+      Name: chinatown/image/head/head_27.unity3d
+      Dependencies: {}
+    Info_32:
+      Name: chinatown/image/head/head_28.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: chinatown/image/head/head_29.unity3d
+      Dependencies: {}
+    Info_34:
+      Name: chinatown/image/head/head_3.unity3d
+      Dependencies: {}
+    Info_35:
+      Name: chinatown/image/head/head_30.unity3d
+      Dependencies: {}
+    Info_36:
+      Name: chinatown/image/head/head_31.unity3d
+      Dependencies: {}
+    Info_37:
+      Name: chinatown/image/head/head_32.unity3d
+      Dependencies: {}
+    Info_38:
+      Name: chinatown/image/head/head_33.unity3d
+      Dependencies: {}
+    Info_39:
+      Name: chinatown/image/head/head_34.unity3d
+      Dependencies: {}
+    Info_40:
+      Name: chinatown/image/head/head_35.unity3d
+      Dependencies: {}
+    Info_41:
+      Name: chinatown/image/head/head_36.unity3d
+      Dependencies: {}
+    Info_42:
+      Name: chinatown/image/head/head_37.unity3d
+      Dependencies: {}
+    Info_43:
+      Name: chinatown/image/head/head_38.unity3d
+      Dependencies: {}
+    Info_44:
+      Name: chinatown/image/head/head_39.unity3d
+      Dependencies: {}
+    Info_45:
+      Name: chinatown/image/head/head_4.unity3d
+      Dependencies: {}
+    Info_46:
+      Name: chinatown/image/head/head_40.unity3d
+      Dependencies: {}
+    Info_47:
+      Name: chinatown/image/head/head_41.unity3d
+      Dependencies: {}
+    Info_48:
+      Name: chinatown/image/head/head_42.unity3d
+      Dependencies: {}
+    Info_49:
+      Name: chinatown/image/head/head_43.unity3d
+      Dependencies: {}
+    Info_50:
+      Name: chinatown/image/head/head_44.unity3d
+      Dependencies: {}
+    Info_51:
+      Name: chinatown/image/head/head_45.unity3d
+      Dependencies: {}
+    Info_52:
+      Name: chinatown/image/head/head_46.unity3d
+      Dependencies: {}
+    Info_53:
+      Name: chinatown/image/head/head_47.unity3d
+      Dependencies: {}
+    Info_54:
+      Name: chinatown/image/head/head_48.unity3d
+      Dependencies: {}
+    Info_55:
+      Name: chinatown/image/head/head_49.unity3d
+      Dependencies: {}
+    Info_56:
+      Name: chinatown/image/head/head_5.unity3d
+      Dependencies: {}
+    Info_57:
+      Name: chinatown/image/head/head_50.unity3d
+      Dependencies: {}
+    Info_58:
+      Name: chinatown/image/head/head_51.unity3d
+      Dependencies: {}
+    Info_59:
+      Name: chinatown/image/head/head_52.unity3d
+      Dependencies: {}
+    Info_60:
+      Name: chinatown/image/head/head_53.unity3d
+      Dependencies: {}
+    Info_61:
+      Name: chinatown/image/head/head_54.unity3d
+      Dependencies: {}
+    Info_62:
+      Name: chinatown/image/head/head_55.unity3d
+      Dependencies: {}
+    Info_63:
+      Name: chinatown/image/head/head_56.unity3d
+      Dependencies: {}
+    Info_64:
+      Name: chinatown/image/head/head_57.unity3d
+      Dependencies: {}
+    Info_65:
+      Name: chinatown/image/head/head_58.unity3d
+      Dependencies: {}
+    Info_66:
+      Name: chinatown/image/head/head_59.unity3d
+      Dependencies: {}
+    Info_67:
+      Name: chinatown/image/head/head_6.unity3d
+      Dependencies: {}
+    Info_68:
+      Name: chinatown/image/head/head_60.unity3d
+      Dependencies: {}
+    Info_69:
+      Name: chinatown/image/head/head_61.unity3d
+      Dependencies: {}
+    Info_70:
+      Name: chinatown/image/head/head_62.unity3d
+      Dependencies: {}
+    Info_71:
+      Name: chinatown/image/head/head_63.unity3d
+      Dependencies: {}
+    Info_72:
+      Name: chinatown/image/head/head_64.unity3d
+      Dependencies: {}
+    Info_73:
+      Name: chinatown/image/head/head_65.unity3d
+      Dependencies: {}
+    Info_74:
+      Name: chinatown/image/head/head_66.unity3d
+      Dependencies: {}
+    Info_75:
+      Name: chinatown/image/head/head_67.unity3d
+      Dependencies: {}
+    Info_76:
+      Name: chinatown/image/head/head_68.unity3d
+      Dependencies: {}
+    Info_77:
+      Name: chinatown/image/head/head_69.unity3d
+      Dependencies: {}
+    Info_78:
+      Name: chinatown/image/head/head_7.unity3d
+      Dependencies: {}
+    Info_79:
+      Name: chinatown/image/head/head_70.unity3d
+      Dependencies: {}
+    Info_80:
+      Name: chinatown/image/head/head_71.unity3d
+      Dependencies: {}
+    Info_81:
+      Name: chinatown/image/head/head_72.unity3d
+      Dependencies: {}
+    Info_82:
+      Name: chinatown/image/head/head_8.unity3d
+      Dependencies: {}
+    Info_83:
+      Name: chinatown/image/head/head_9.unity3d
+      Dependencies: {}
+    Info_84:
+      Name: chinatown/image/icon/horse.unity3d
+      Dependencies: {}
+    Info_85:
+      Name: chinatown/image/icon/kick.unity3d
+      Dependencies: {}
+    Info_86:
+      Name: chinatown/image/icon/leave.unity3d
+      Dependencies: {}
+    Info_87:
+      Name: chinatown/image/icon/question.unity3d
+      Dependencies: {}
+    Info_88:
+      Name: chinatown/image/icon/setting.unity3d
+      Dependencies: {}
+    Info_89:
+      Name: chinatown/image/icon/signal.unity3d
+      Dependencies: {}
+    Info_90:
+      Name: chinatown/image/icon/signaleffect.unity3d
+      Dependencies: {}
+    Info_91:
+      Name: chinatown/image/icon/star.unity3d
+      Dependencies: {}
+    Info_92:
+      Name: chinatown/image/icon/trade.unity3d
+      Dependencies: {}
+    Info_93:
+      Name: chinatown/image/icon/tradeflag.unity3d
+      Dependencies: {}
+    Info_94:
+      Name: chinatown/image/icon/trading.unity3d
+      Dependencies: {}
+    Info_95:
+      Name: chinatown/image/icon/year.unity3d
+      Dependencies: {}
+    Info_96:
+      Name: chinatown/image/shop/shop_1.unity3d
+      Dependencies: {}
+    Info_97:
+      Name: chinatown/image/shop/shop_10.unity3d
+      Dependencies: {}
+    Info_98:
+      Name: chinatown/image/shop/shop_11.unity3d
+      Dependencies: {}
+    Info_99:
+      Name: chinatown/image/shop/shop_12.unity3d
+      Dependencies: {}
+    Info_100:
+      Name: chinatown/image/shop/shop_2.unity3d
+      Dependencies: {}
+    Info_101:
+      Name: chinatown/image/shop/shop_3.unity3d
+      Dependencies: {}
+    Info_102:
+      Name: chinatown/image/shop/shop_4.unity3d
+      Dependencies: {}
+    Info_103:
+      Name: chinatown/image/shop/shop_5.unity3d
+      Dependencies: {}
+    Info_104:
+      Name: chinatown/image/shop/shop_6.unity3d
+      Dependencies: {}
+    Info_105:
+      Name: chinatown/image/shop/shop_7.unity3d
+      Dependencies: {}
+    Info_106:
+      Name: chinatown/image/shop/shop_8.unity3d
+      Dependencies: {}
+    Info_107:
+      Name: chinatown/image/shop/shop_9.unity3d
+      Dependencies: {}
+    Info_108:
+      Name: chinatown/lua/core/class.lua.unity3d
+      Dependencies: {}
+    Info_109:
+      Name: chinatown/lua/core/global.lua.unity3d
+      Dependencies: {}
+    Info_110:
+      Name: chinatown/lua/core/string.lua.unity3d
+      Dependencies: {}
+    Info_111:
+      Name: chinatown/lua/core/table.lua.unity3d
+      Dependencies: {}
+    Info_112:
+      Name: chinatown/lua/game/cross/cross.lua.unity3d
+      Dependencies: {}
+    Info_113:
+      Name: chinatown/lua/game/cross/gamedefines.lua.unity3d
+      Dependencies: {}
+    Info_114:
+      Name: chinatown/lua/game/cross/netdefine.lua.unity3d
+      Dependencies: {}
+    Info_115:
+      Name: chinatown/lua/game/data/chinatowndata.lua.unity3d
+      Dependencies: {}
+    Info_116:
+      Name: chinatown/lua/game/data/chinatowneffect.lua.unity3d
+      Dependencies: {}
+    Info_117:
+      Name: chinatown/lua/game/data/chinatownres.lua.unity3d
+      Dependencies: {}
+    Info_118:
+      Name: chinatown/lua/game/data/chinatowntool.lua.unity3d
+      Dependencies: {}
+    Info_119:
+      Name: chinatown/lua/game/data/data.lua.unity3d
+      Dependencies: {}
+    Info_120:
+      Name: chinatown/lua/game/gamemain/cbackgroundview.lua.unity3d
+      Dependencies: {}
+    Info_121:
+      Name: chinatown/lua/game/gamemain/cgamechatview.lua.unity3d
+      Dependencies: {}
+    Info_122:
+      Name: chinatown/lua/game/gamemain/cgamectrl.lua.unity3d
+      Dependencies: {}
+    Info_123:
+      Name: chinatown/lua/game/gamemain/cgameview.lua.unity3d
+      Dependencies: {}
+    Info_124:
+      Name: chinatown/lua/game/gamemain/chelpview.lua.unity3d
+      Dependencies: {}
+    Info_125:
+      Name: chinatown/lua/game/gamemain/clocation.lua.unity3d
+      Dependencies: {}
+    Info_126:
+      Name: chinatown/lua/game/gamemain/clookshopview.lua.unity3d
+      Dependencies: {}
+    Info_127:
+      Name: chinatown/lua/game/gamemain/coptionview.lua.unity3d
+      Dependencies: {}
+    Info_128:
+      Name: chinatown/lua/game/gamemain/cplayer.lua.unity3d
+      Dependencies: {}
+    Info_129:
+      Name: chinatown/lua/game/gamemain/cplayerinfo.lua.unity3d
+      Dependencies: {}
+    Info_130:
+      Name: chinatown/lua/game/gamemain/cplayerinfoview.lua.unity3d
+      Dependencies: {}
+    Info_131:
+      Name: chinatown/lua/game/gamemain/crankinfo.lua.unity3d
+      Dependencies: {}
+    Info_132:
+      Name: chinatown/lua/game/gamemain/crankview.lua.unity3d
+      Dependencies: {}
+    Info_133:
+      Name: chinatown/lua/game/gamemain/cselectiongrid.lua.unity3d
+      Dependencies: {}
+    Info_134:
+      Name: chinatown/lua/game/gamemain/cselectionview.lua.unity3d
+      Dependencies: {}
+    Info_135:
+      Name: chinatown/lua/game/gamemain/cshopcard.lua.unity3d
+      Dependencies: {}
+    Info_136:
+      Name: chinatown/lua/game/gamemain/cshopview.lua.unity3d
+      Dependencies: {}
+    Info_137:
+      Name: chinatown/lua/game/gamemain/ctradeflag.lua.unity3d
+      Dependencies: {}
+    Info_138:
+      Name: chinatown/lua/game/gamemain/ctradeinfo.lua.unity3d
+      Dependencies: {}
+    Info_139:
+      Name: chinatown/lua/game/gamemain/ctradeview.lua.unity3d
+      Dependencies: {}
+    Info_140:
+      Name: chinatown/lua/game/gamemain/cyearview.lua.unity3d
+      Dependencies: {}
+    Info_141:
+      Name: chinatown/lua/game/gamemain/gamemain.lua.unity3d
+      Dependencies: {}
+    Info_142:
+      Name: chinatown/lua/game/home/cattrctrl.lua.unity3d
+      Dependencies: {}
+    Info_143:
+      Name: chinatown/lua/game/home/cchatctrl.lua.unity3d
+      Dependencies: {}
+    Info_144:
+      Name: chinatown/lua/game/home/chomeview.lua.unity3d
+      Dependencies: {}
+    Info_145:
+      Name: chinatown/lua/game/home/cjoinroomview.lua.unity3d
+      Dependencies: {}
+    Info_146:
+      Name: chinatown/lua/game/home/croomchatview.lua.unity3d
+      Dependencies: {}
+    Info_147:
+      Name: chinatown/lua/game/home/croomctrl.lua.unity3d
+      Dependencies: {}
+    Info_148:
+      Name: chinatown/lua/game/home/croommember.lua.unity3d
+      Dependencies: {}
+    Info_149:
+      Name: chinatown/lua/game/home/croomview.lua.unity3d
+      Dependencies: {}
+    Info_150:
+      Name: chinatown/lua/game/home/home.lua.unity3d
+      Dependencies: {}
+    Info_151:
+      Name: chinatown/lua/game/login/ccreateplayerview.lua.unity3d
+      Dependencies: {}
+    Info_152:
+      Name: chinatown/lua/game/login/cloginctrl.lua.unity3d
+      Dependencies: {}
+    Info_153:
+      Name: chinatown/lua/game/login/cloginview.lua.unity3d
+      Dependencies: {}
+    Info_154:
+      Name: chinatown/lua/game/login/login.lua.unity3d
+      Dependencies: {}
+    Info_155:
+      Name: chinatown/lua/game/net/cservertimectrl.lua.unity3d
+      Dependencies: {}
+    Info_156:
+      Name: chinatown/lua/game/net/net.lua.unity3d
+      Dependencies: {}
+    Info_157:
+      Name: chinatown/lua/game/net/netbattle.lua.unity3d
+      Dependencies: {}
+    Info_158:
+      Name: chinatown/lua/game/net/netchat.lua.unity3d
+      Dependencies: {}
+    Info_159:
+      Name: chinatown/lua/game/net/netlogin.lua.unity3d
+      Dependencies: {}
+    Info_160:
+      Name: chinatown/lua/game/net/netother.lua.unity3d
+      Dependencies: {}
+    Info_161:
+      Name: chinatown/lua/game/net/netplayer.lua.unity3d
+      Dependencies: {}
+    Info_162:
+      Name: chinatown/lua/game/net/netroom.lua.unity3d
+      Dependencies: {}
+    Info_163:
+      Name: chinatown/lua/game/net/netverify.lua.unity3d
+      Dependencies: {}
+    Info_164:
+      Name: chinatown/lua/game/scene/scene.lua.unity3d
+      Dependencies: {}
+    Info_165:
+      Name: chinatown/lua/game/scene/sgamemain.lua.unity3d
+      Dependencies: {}
+    Info_166:
+      Name: chinatown/lua/game/scene/shome.lua.unity3d
+      Dependencies: {}
+    Info_167:
+      Name: chinatown/lua/game/scene/slogin.lua.unity3d
+      Dependencies: {}
+    Info_168:
+      Name: chinatown/lua/game/ui/cchatbox.lua.unity3d
+      Dependencies: {}
+    Info_169:
+      Name: chinatown/lua/game/ui/ccursorview.lua.unity3d
+      Dependencies: {}
+    Info_170:
+      Name: chinatown/lua/game/ui/cloadingview.lua.unity3d
+      Dependencies: {}
+    Info_171:
+      Name: chinatown/lua/game/ui/cnotify.lua.unity3d
+      Dependencies: {}
+    Info_172:
+      Name: chinatown/lua/game/ui/cnotifyview.lua.unity3d
+      Dependencies: {}
+    Info_173:
+      Name: chinatown/lua/game/ui/csettingview.lua.unity3d
+      Dependencies: {}
+    Info_174:
+      Name: chinatown/lua/game/ui/ui.lua.unity3d
+      Dependencies: {}
+    Info_175:
+      Name: chinatown/lua/game/eventdefine.lua.unity3d
+      Dependencies: {}
+    Info_176:
+      Name: chinatown/lua/game/game.lua.unity3d
+      Dependencies: {}
+    Info_177:
+      Name: chinatown/lua/logic/base/base.lua.unity3d
+      Dependencies: {}
+    Info_178:
+      Name: chinatown/lua/logic/base/cabrequest.lua.unity3d
+      Dependencies: {}
+    Info_179:
+      Name: chinatown/lua/logic/base/caudioctrl.lua.unity3d
+      Dependencies: {}
+    Info_180:
+      Name: chinatown/lua/logic/base/cctrlbase.lua.unity3d
+      Dependencies: {}
+    Info_181:
+      Name: chinatown/lua/logic/base/cdelaycallbase.lua.unity3d
+      Dependencies: {}
+    Info_182:
+      Name: chinatown/lua/logic/base/cgameobjcontainer.lua.unity3d
+      Dependencies: {}
+    Info_183:
+      Name: chinatown/lua/logic/base/clientdata.lua.unity3d
+      Dependencies: {}
+    Info_184:
+      Name: chinatown/lua/logic/base/cobject.lua.unity3d
+      Dependencies: {}
+    Info_185:
+      Name: chinatown/lua/logic/base/coroutine.lua.unity3d
+      Dependencies: {}
+    Info_186:
+      Name: chinatown/lua/logic/base/cresctrl.lua.unity3d
+      Dependencies: {}
+    Info_187:
+      Name: chinatown/lua/logic/base/cresrequest.lua.unity3d
+      Dependencies: {}
+    Info_188:
+      Name: chinatown/lua/logic/base/ctimerctrl.lua.unity3d
+      Dependencies: {}
+    Info_189:
+      Name: chinatown/lua/logic/base/utils.lua.unity3d
+      Dependencies: {}
+    Info_190:
+      Name: chinatown/lua/logic/net/cnetctrl.lua.unity3d
+      Dependencies: {}
+    Info_191:
+      Name: chinatown/lua/logic/net/net.lua.unity3d
+      Dependencies: {}
+    Info_192:
+      Name: chinatown/lua/logic/net/netproto.lua.unity3d
+      Dependencies: {}
+    Info_193:
+      Name: chinatown/lua/logic/net/protobuf.lua.unity3d
+      Dependencies: {}
+    Info_194:
+      Name: chinatown/lua/logic/scene/cbasescene.lua.unity3d
+      Dependencies: {}
+    Info_195:
+      Name: chinatown/lua/logic/scene/cscenectrl.lua.unity3d
+      Dependencies: {}
+    Info_196:
+      Name: chinatown/lua/logic/scene/scene.lua.unity3d
+      Dependencies: {}
+    Info_197:
+      Name: chinatown/lua/logic/ui/cbutton.lua.unity3d
+      Dependencies: {}
+    Info_198:
+      Name: chinatown/lua/logic/ui/clayer.lua.unity3d
+      Dependencies: {}
+    Info_199:
+      Name: chinatown/lua/logic/ui/cuieffect.lua.unity3d
+      Dependencies: {}
+    Info_200:
+      Name: chinatown/lua/logic/ui/cuieffectctrl.lua.unity3d
+      Dependencies: {}
+    Info_201:
+      Name: chinatown/lua/logic/ui/cviewbase.lua.unity3d
+      Dependencies: {}
+    Info_202:
+      Name: chinatown/lua/logic/ui/cviewctrl.lua.unity3d
+      Dependencies: {}
+    Info_203:
+      Name: chinatown/lua/logic/ui/sortinglayernames.lua.unity3d
+      Dependencies: {}
+    Info_204:
+      Name: chinatown/lua/logic/ui/ui.lua.unity3d
+      Dependencies: {}
+    Info_205:
+      Name: chinatown/lua/logic/ui/uiutil.lua.unity3d
+      Dependencies: {}
+    Info_206:
+      Name: chinatown/lua/logic/classtype.lua.unity3d
+      Dependencies: {}
+    Info_207:
+      Name: chinatown/lua/logic/logic.lua.unity3d
+      Dependencies: {}
+    Info_208:
+      Name: chinatown/lua/preload/color.lua.unity3d
+      Dependencies: {}
+    Info_209:
+      Name: chinatown/lua/preload/mathf.lua.unity3d
+      Dependencies: {}
+    Info_210:
+      Name: chinatown/lua/preload/preload.lua.unity3d
+      Dependencies: {}
+    Info_211:
+      Name: chinatown/lua/preload/time.lua.unity3d
+      Dependencies: {}
+    Info_212:
+      Name: chinatown/lua/preload/vector2.lua.unity3d
+      Dependencies: {}
+    Info_213:
+      Name: chinatown/lua/preload/vector3.lua.unity3d
+      Dependencies: {}
+    Info_214:
+      Name: chinatown/lua/main.lua.unity3d
+      Dependencies: {}
+    Info_215:
+      Name: chinatown/proto/proto.pb.unity3d
+      Dependencies: {}
+    Info_216:
+      Name: chinatown/ui/common/cursorview.unity3d
+      Dependencies: {}
+    Info_217:
+      Name: chinatown/ui/common/initview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/selection.unity3d
+    Info_218:
+      Name: chinatown/ui/common/loadingview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/selection.unity3d
+    Info_219:
+      Name: chinatown/ui/common/notifyview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/selection.unity3d
+    Info_220:
+      Name: chinatown/ui/common/settingview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/selection.unity3d
+    Info_221:
+      Name: chinatown/ui/gamemain/backgroundview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/image/background/map.unity3d
+        Dependency_1: chinatown/image/background/map_fix.unity3d
+        Dependency_2: chinatown/image/background/player.unity3d
+    Info_222:
+      Name: chinatown/ui/gamemain/gamechatview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/chat.unity3d
+    Info_223:
+      Name: chinatown/ui/gamemain/gameview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/shop/shop_1.unity3d
+    Info_224:
+      Name: chinatown/ui/gamemain/helpview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+    Info_225:
+      Name: chinatown/ui/gamemain/lookshopview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/shop.unity3d
+    Info_226:
+      Name: chinatown/ui/gamemain/optionview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/icon/leave.unity3d
+        Dependency_2: chinatown/image/icon/question.unity3d
+        Dependency_3: chinatown/image/icon/setting.unity3d
+    Info_227:
+      Name: chinatown/ui/gamemain/playerinfoview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/icon/trading.unity3d
+    Info_228:
+      Name: chinatown/ui/gamemain/rankview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+    Info_229:
+      Name: chinatown/ui/gamemain/selectionview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/selection.unity3d
+    Info_230:
+      Name: chinatown/ui/gamemain/shopview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+    Info_231:
+      Name: chinatown/ui/gamemain/tradeview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/player.unity3d
+        Dependency_2: chinatown/image/icon/tradeflag.unity3d
+    Info_232:
+      Name: chinatown/ui/gamemain/yearview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/icon/horse.unity3d
+        Dependency_2: chinatown/image/icon/year.unity3d
+    Info_233:
+      Name: chinatown/ui/home/homeview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+    Info_234:
+      Name: chinatown/ui/home/joinroomview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/selection.unity3d
+    Info_235:
+      Name: chinatown/ui/home/roomchatview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/background/roomchat.unity3d
+    Info_236:
+      Name: chinatown/ui/home/roomview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+        Dependency_1: chinatown/image/icon/kick.unity3d
+        Dependency_2: chinatown/image/icon/star.unity3d
+    Info_237:
+      Name: chinatown/ui/login/createplayerview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d
+    Info_238:
+      Name: chinatown/ui/login/loginview.unity3d
+      Dependencies:
+        Dependency_0: chinatown/font/pixel.unity3d

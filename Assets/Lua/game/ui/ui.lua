@@ -1,0 +1,6 @@
+CCursorView = require "game.ui.CCursorView"
+CNotifyView = require "game.ui.CNotifyView"
+CLoadingView = require "game.ui.CLoadingView"
+CSettingView = require "game.ui.CSettingView"
+CChatBox = require "game.ui.CChatBox"
+CNotify = require "game.ui.CNotify"
