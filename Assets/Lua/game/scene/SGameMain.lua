@@ -12,6 +12,7 @@ function o:OnEnter()
 	self:AddPreloadResources(CSelectionView.Config.PrefabPath,classtype.GameObject)
 	self:AddPreloadResources(CTradeView.Config.PrefabPath,classtype.GameObject)
 	self:AddPreloadResources(CHelpView.Config.PrefabPath,classtype.GameObject)
+	self:AddPreloadResources(CShopInfoView.Config.PrefabPath,classtype.GameObject)
 end
 
 function o:OnComplete()

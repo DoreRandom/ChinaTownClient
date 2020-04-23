@@ -49,10 +49,12 @@ function o:SetPlayerInfo(players)
             table.insert(l,v)
         end
     end
+
     for i=1,#self.m_PlayerInfos do
         local data = l[i]
         if data then 
             self.m_PlayerInfos[i]:SetPlayerInfo(data)
+            self.m_PlayerInfos[i]:SetActive(true)
         else
             self.m_PlayerInfos[i]:SetActive(false)
         end

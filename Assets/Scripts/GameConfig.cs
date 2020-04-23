@@ -8,7 +8,7 @@ public class GameConfig
 
     public const string Url = "http://www.woodgame.top/"; //资源地址
 
-    public const string Version = "0.0.2"; //当前版本号
+    public const string Version = "0.0.5"; //当前版本号
 
     public const string AssetBundleOutputPath = "C:/Users/Administrator/Desktop/Server"; //ab打包输出位置
 

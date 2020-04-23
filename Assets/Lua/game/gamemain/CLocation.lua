@@ -6,7 +6,7 @@ function o.ctor(self, obj,args)
 
     self.m_Id = args.id
     self.m_AreaId = args.areaId
-    self.m_IsSetShop = false
+    self.m_Shop = nil
 
     self.m_LocationBtn = self:GetUI(1,UIButton)
     self.m_LocationEventHandler = self:GetUI(1,typeof(CS.UIEventHandler))
@@ -40,13 +40,12 @@ end
 
 --恢复商铺
 function o:ShowShop()
-    self:HideID()
-    self.m_ShopParent:SetActive(true)
+    self:SetShop(self.m_Shop) 
 end
 
 --添加按钮事件
 function o:LocationOnClick()
-    if self.m_IsSetShop then
+    if self.m_Shop then
         --如果已经设置了店铺，查看一波位置
         self:ShowID()
         self.m_ShopParent:SetActive(false)
@@ -76,14 +75,13 @@ end
 
 --设置商店
 function o:SetShop(shop)
+    self.m_Shop = shop
     if shop == nil then
-        self.m_IsSetShop = false
         self.m_ShopParent:SetActive(false)
         self:ShowID()
         return
     end
 
-    self.m_IsSetShop = true
     local point = ChinaTownData.shop[shop]
     local path = ChinaTownRes.img.shopImagePath .. shop
     g_ResCtrl:LoadImage(self.m_ShopImage,path)

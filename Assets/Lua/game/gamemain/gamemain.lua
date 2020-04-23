@@ -14,6 +14,7 @@ CSelectionView = require "game.gamemain.CSelectionView"
 CGameChatView = require "game.gamemain.CGameChatView"
 CRankView = require "game.gamemain.CRankView"
 CHelpView = require "game.gamemain.CHelpView"
+CShopInfoView = require "game.gamemain.CShopInfoView"
 
 CLocation = require "game.gamemain.CLocation"
 CPlayerInfo = require "game.gamemain.CPlayerInfo"

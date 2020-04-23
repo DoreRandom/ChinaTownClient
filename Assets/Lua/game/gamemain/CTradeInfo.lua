@@ -47,7 +47,7 @@ end
 function o:Show(args)
     self.m_NameText.text = args.name
     self.m_MoneyText.text = tostring(args.money)
-    self.m_LockText.text = tostring(args.locked ~=0 and "已锁定" or "未锁定") 
+    self.m_LockText.text = tostring(args.locked ~=0 and "是" or "否") 
     
     self:ShowShop(args.shopList)
 end

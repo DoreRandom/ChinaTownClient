@@ -33,6 +33,7 @@ function o.OnCreateView(self)
     self.m_MoneyInput = self:GetUI(7,UIInputField)
     self.m_GiveMoneyBtn = self:GetUI(8,UIButton)
     self.m_LockBtn = self:GetUI(9,UIButton)
+    self.m_LockText = self.m_LockBtn.transform:GetComponentInChildren(UIText)
     self.m_CancelTradeBtn = self:GetUI(10,UIButton)
 
     self.m_GiveMoneyBtn.onClick:AddListener(function ()
@@ -51,6 +52,7 @@ end
 --窗口激活后调用
 function o:OnShowView()
     self:DelayCall(0,"Update")
+    self.m_MoneyInput.text = "0"
 end
 
 --隐藏后调用
@@ -155,6 +157,11 @@ function o:ShowTrade()
         local tradeInfoView = nil
         if g_GameCtrl:IsLocal(pid) then
             tradeInfoView = self.m_TradeInfos[1]
+            if tradeInfo.locked == 0 then
+                self.m_LockText.text = "锁定"
+            else
+                self.m_LockText.text = "解锁"
+            end
         else
             tradeInfoView = self.m_TradeInfos[2]
         end

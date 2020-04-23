@@ -105,7 +105,7 @@ end
 function o:CountDown()
     self.m_CountDown = self.m_CountDown - 1
     if self.m_CountDown <= 0 then
-        self.m_TimeText = 0
+        self.m_TimeText.text = 0
         return
     end
     self.m_TimeText.text = tostring(self.m_CountDown)

@@ -62,7 +62,6 @@ namespace Game
 
         void Start()
         {
-
             Setting();
 #if UNITY_EDITOR
             StartGame();

@@ -29,6 +29,18 @@ function o.ctor(self, obj,args)
         end
     end
 
+    if args.onEnter then
+        self.m_ShopEventHandler.onEnter = function ()
+            args.onEnter()
+        end
+    end
+
+    if args.onExit then
+        self.m_ShopEventHandler.onExit = function ()
+            args.onExit()
+        end
+    end
+
     self:ShowShop()
 end
 

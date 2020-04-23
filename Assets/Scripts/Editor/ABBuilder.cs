@@ -243,6 +243,7 @@ public class ABBuilder : Editor
     //添加文件地md5
     static void AddFileMD5(string source,List<FileJson> list)
     {
+        string root =  GameConfig.GetAssetBundleOutputPath();
         DirectoryInfo folder = new DirectoryInfo(source);
         FileSystemInfo[] files = folder.GetFileSystemInfos();
         int length = files.Length;
@@ -263,6 +264,15 @@ public class ABBuilder : Editor
                     FileJson fileJson = new FileJson();
                     fileJson.MD5 = md5;
                     fileJson.FileName = fullName.Substring(index);
+                    list.Add(fileJson);
+                }
+                else if (root.EndsWith(files[i].Name))
+                {
+                    string md5 = FileHelper.GetMD5HashFromFile(fullName);
+
+                    FileJson fileJson = new FileJson();
+                    fileJson.MD5 = md5;
+                    fileJson.FileName = files[i].Name;
                     list.Add(fileJson);
                 }
             }

@@ -24,9 +24,19 @@ function o.OnCreateView(self)
 
         local index = i
         
-        self.m_ShopCards[i] = CShopCard.New(go,{shopId = i,leftClick = function ()
+        self.m_ShopCards[i] = CShopCard.New(go,{shopId = i,
+        leftClick = function ()
             self:OnLeftClickShop(index)
-        end})
+        end,
+        onEnter = function ()
+            CShopInfoView:ShowView(function (view)
+                view:SetShopInfo(index)
+            end)
+        end,
+        onExit = function ()
+            CShopInfoView:CloseView()
+        end
+        })
     end
 end
 --click
