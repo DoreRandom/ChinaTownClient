@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 230748377
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a0ca6671766ea15870672d6c0ba3fed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 505ebf6d95e897a2806435a3cfc2c40d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15d804ad55925324e97f02a1ba383c82, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/UI/GameMain/SelectionView.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/font/pixel.unity3d
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/image/background/selection.unity3d

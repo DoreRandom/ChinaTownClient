@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4024158833
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8918e58ad1ca6aa87ea4cd0229b5cf82
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Image/Background/selection.png
+Dependencies: []

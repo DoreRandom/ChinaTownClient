@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 540289370
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6c74b7b6082e1fd3c25aa8dca3bd8a7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/game/net/NetChat.lua.bytes
+Dependencies: []

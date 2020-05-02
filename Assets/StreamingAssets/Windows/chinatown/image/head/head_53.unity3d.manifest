@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2245116281
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: aeb3542c664562c0a4f48a249753f189
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Image/Head/head_53.png
+Dependencies: []

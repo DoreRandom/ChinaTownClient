@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3757264976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: beada04a720ae3a917860248a287897e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fbebf30bd9c34a471df00a2e3a1a5c0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88799281df4909d4b9f245ddf6c5449b, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15d804ad55925324e97f02a1ba383c82, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/UI/GameMain/PlayerInfoView.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/font/pixel.unity3d
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/image/icon/trading.unity3d

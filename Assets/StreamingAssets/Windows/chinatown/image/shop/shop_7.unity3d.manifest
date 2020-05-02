@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3833530432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c039782e2c51abf428c4d831c9816b3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Image/Shop/shop_7.png
+Dependencies: []

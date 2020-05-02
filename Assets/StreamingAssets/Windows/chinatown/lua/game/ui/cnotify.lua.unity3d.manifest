@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 395119091
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54876d3f876ea72abb73ee661cc7518a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/game/ui/CNotify.lua.bytes
+Dependencies: []

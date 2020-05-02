@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 790883261
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6eb507e811968c96f929d08bac05bfb7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/logic/base/CResCtrl.lua.bytes
+Dependencies: []

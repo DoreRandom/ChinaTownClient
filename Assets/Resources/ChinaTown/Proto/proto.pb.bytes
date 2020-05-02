@@ -1,0 +1,220 @@
+
+ü
+verify.proto".
+	C2GSLogin
+account (	
+password (	"1
+C2GSRegister
+account (	
+password (	"R
+GS2CLoginResult
+retCode (
+retMsg (	
+account (	
+token (	"5
+GS2CRegisterResult
+retCode (
+retMsg (	
+ì
+login.protobase/common.proto"2
+C2GSLoginAccount
+account (	
+token (	"
+C2GSLoginPlayer
+pid (".
+C2GSCreatePlayer
+name (	
+head ("5
+C2GSReLoginPlayer
+pid (
+playerToken (	"F
+GS2CLoginAccount
+account (	!
+
+playerList (2.SimplePlayer"P
+GS2CLoginPlayer
+account (	
+player (2.Player
+playerToken (	"B
+GS2CCreatePlayer
+account (	
+player (2.SimplePlayer"1
+GS2CLoginError
+retCode (
+retMsg (	
+â
+base/common.proto"7
+SimplePlayer
+pid (
+name (	
+head ("J
+Player
+pid (
+name (	
+head (
+score (:-1000000"H
+RoomMemberInfo
+pid (
+name (	
+head (
+ready (
+h
+other.proto"
+C2GSHeartBeat"
+GS2CHeartBeat
+time (")
+
+GS2CNotify
+msg (	
+window (
+Ø
+
+room.protobase/common.proto"
+C2GSCreateRoom"
+C2GSJoinRoom
+roomId ("!
+C2GSKickRoom
+	targetPid ("
+C2GSLeaveRoom"
+C2GSSetReady
+ready ("
+C2GSStartGame"O
+GS2CAddRoom
+roomId (
+leader ( 
+members (2.RoomMemberInfo"
+GS2CDelRoom"5
+GS2CAddRoomMember 
+memInfo (2.RoomMemberInfo""
+GS2CChangeLeader
+leader ("+
+GS2CRefreshRoomStatus
+
+roomStatus ("9
+GS2CRefreshMemberInfo 
+memInfo (2.RoomMemberInfo
+o
+
+chat.proto")
+C2GSChat
+msg (	
+chanType ("6
+GS2CChat
+pid (
+msg (	
+chanType (
+˜
+battle.proto"u
+BattlePlayerStatus
+money (:-1
+	lastMoney (:-1
+tid (:-1
+online (:-1
+shopList ("`
+BattlePlayerInfo
+pid (
+name (	
+head (#
+status (2.BattlePlayerStatus"<
+BattleLocationInfo
+lid (
+pid (
+shop ("m
+BattleTradeInfo
+pid (
+locked (:-1
+money (:-1
+shopList (
+locationList ("W
+BattleRankInfo
+pid (
+name (	
+head (
+score (
+money ("E
+C2GSSelectCard
+bid (
+shopList (
+locationList (""
+C2GSShowCacheWindow
+bid ("
+C2GSNextYear
+bid ("/
+
+C2GSSignal
+bid (	
+x (	
+y ("?
+C2GSSetShopToLocation
+bid (
+lid (
+shop ("+
+	C2GSTrade
+bid (
+	targetPid ("
+C2GSCancelTrade
+bid ("D
+C2GSTradeShop
+bid (
+tid (
+shop (
+num (":
+C2GSTradeLocation
+bid (
+tid (
+lid ("9
+C2GSTradeMoney
+bid (
+tid (
+money (")
+C2GSTradeLock
+bid (
+tid ("
+C2GSForceLeave"G
+GS2CCreateBattle
+bid (&
+playerInfos (2.BattlePlayerInfo"L
+GS2CRefreshYear
+bid (
+year (
+vote (
+nextYear ("i
+GS2CDispatchCard
+bid (
+shopList (
+locationList (
+expTime (
+nowTime ("J
+GS2CRefreshLocation
+bid (&
+	locations (2.BattleLocationInfo"X
+GS2CRefreshPlayerStatus
+bid (
+pid (#
+status (2.BattlePlayerStatus"
+GS2CSelectCard
+bid ("<
+
+GS2CSignal
+bid (
+pid (	
+x (	
+y ("K
+	GS2CTrade
+bid (
+tid ($
+
+tradeInfos (2.BattleTradeInfo"U
+GS2CRefreshTradeInfo
+bid (
+tid (#
+	tradeInfo (2.BattleTradeInfo"?
+GS2CRankInfo
+bid ("
+	rankInfos (2.BattleRankInfo
+s
+player.protobase/common.proto"
+C2GSBackToTeam"
+C2GSBackToHall",
+GS2CRefreshPlayer
+status (2.Player

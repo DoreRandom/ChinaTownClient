@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1335471480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf46d8f73d5cb67e8cf2c12b8412a798
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/logic/base/CObject.lua.bytes
+Dependencies: []

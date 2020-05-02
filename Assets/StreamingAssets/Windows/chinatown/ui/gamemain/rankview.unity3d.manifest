@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1099101399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f3de1c6de2572219b46b6519bc43673
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f66c3f0236a7a47f528367a8e54bd2a5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15d804ad55925324e97f02a1ba383c82, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/UI/GameMain/RankView.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/font/pixel.unity3d

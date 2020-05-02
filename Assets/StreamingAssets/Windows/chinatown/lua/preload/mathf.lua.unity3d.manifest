@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2784953030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1bc4e94e7b74a9e273ec4ac45fb44f79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/preload/Mathf.lua.bytes
+Dependencies: []

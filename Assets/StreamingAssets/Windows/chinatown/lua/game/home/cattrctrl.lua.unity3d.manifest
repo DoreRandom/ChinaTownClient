@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3627576006
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f78b535d178b6ed9e2696da76646adb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/game/home/CAttrCtrl.lua.bytes
+Dependencies: []

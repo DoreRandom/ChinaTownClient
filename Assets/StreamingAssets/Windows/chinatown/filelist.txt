@@ -1,0 +1,960 @@
+{
+    "FileList": [
+        {
+            "MD5": "5673c19708883d989ac31158ad7db9de",
+            "FileName": "chinatown/audio/bgm.unity3d"
+        },
+        {
+            "MD5": "3a15af2807fca48c752c578289c5187b",
+            "FileName": "chinatown/audio/click.unity3d"
+        },
+        {
+            "MD5": "fd3680b4f94277504357f7c972baac02",
+            "FileName": "chinatown/effect/ui/10001/animation/animation.unity3d"
+        },
+        {
+            "MD5": "111e03936878883036cf3fcb1cfdfba3",
+            "FileName": "chinatown/effect/ui/10001/prefab/prefab.unity3d"
+        },
+        {
+            "MD5": "edf5e2e63a72efdfd9506b305bb4dd73",
+            "FileName": "chinatown/font/pixel.unity3d"
+        },
+        {
+            "MD5": "d88cb5af9599e60301354856703fc21c",
+            "FileName": "chinatown/image/background/chat.unity3d"
+        },
+        {
+            "MD5": "1cd12af852d8cc25f4a678c786a277e8",
+            "FileName": "chinatown/image/background/map.unity3d"
+        },
+        {
+            "MD5": "fcba373368689080d099f263e3e25246",
+            "FileName": "chinatown/image/background/map_fix.unity3d"
+        },
+        {
+            "MD5": "dd43ca061dcb8ac237379c975a880bf9",
+            "FileName": "chinatown/image/background/player.unity3d"
+        },
+        {
+            "MD5": "d70df9e725602f663ac7f41dfa4bd107",
+            "FileName": "chinatown/image/background/roomchat.unity3d"
+        },
+        {
+            "MD5": "7bd083a2d7e661a63fd9959510d6e1fc",
+            "FileName": "chinatown/image/background/selection.unity3d"
+        },
+        {
+            "MD5": "5160ce9f522d244ad5ad59b9c23cf6bb",
+            "FileName": "chinatown/image/background/shop.unity3d"
+        },
+        {
+            "MD5": "22a3bc4803ffe766e789a58edd115fb2",
+            "FileName": "chinatown/image/head/head_1.unity3d"
+        },
+        {
+            "MD5": "7902047141b0c65b81e3619e003b9d97",
+            "FileName": "chinatown/image/head/head_10.unity3d"
+        },
+        {
+            "MD5": "8e1754f5db5b6f66a19e0d5f83f44df2",
+            "FileName": "chinatown/image/head/head_11.unity3d"
+        },
+        {
+            "MD5": "4810a0bd69325916c3fc1f4fd005c838",
+            "FileName": "chinatown/image/head/head_12.unity3d"
+        },
+        {
+            "MD5": "d25140257db2929b1e8f60f899c3c2f7",
+            "FileName": "chinatown/image/head/head_13.unity3d"
+        },
+        {
+            "MD5": "7f3ac01016304372c95d0fc217703003",
+            "FileName": "chinatown/image/head/head_14.unity3d"
+        },
+        {
+            "MD5": "1680e99b1a88064d8a257032cff3526e",
+            "FileName": "chinatown/image/head/head_15.unity3d"
+        },
+        {
+            "MD5": "0c594cc3b92473b96d78b46a13099b7b",
+            "FileName": "chinatown/image/head/head_16.unity3d"
+        },
+        {
+            "MD5": "c177f37841b19c72c5f6f18955d9b5c4",
+            "FileName": "chinatown/image/head/head_17.unity3d"
+        },
+        {
+            "MD5": "e43f52d3b57bc40f21d19c792d23108e",
+            "FileName": "chinatown/image/head/head_18.unity3d"
+        },
+        {
+            "MD5": "4fa06ee7b82f8e460105ca0173559a0d",
+            "FileName": "chinatown/image/head/head_19.unity3d"
+        },
+        {
+            "MD5": "f1367942bbcecc3a3a71f580375170cf",
+            "FileName": "chinatown/image/head/head_2.unity3d"
+        },
+        {
+            "MD5": "412502a36233226e5d7f51a2afda38e2",
+            "FileName": "chinatown/image/head/head_20.unity3d"
+        },
+        {
+            "MD5": "053c9b56ec6afde54d7195e6c2c75047",
+            "FileName": "chinatown/image/head/head_21.unity3d"
+        },
+        {
+            "MD5": "1d3e5fe9e0f4fb2a7a93b54676525f8c",
+            "FileName": "chinatown/image/head/head_22.unity3d"
+        },
+        {
+            "MD5": "97224ca73022ffc45ae14d58b448cd88",
+            "FileName": "chinatown/image/head/head_23.unity3d"
+        },
+        {
+            "MD5": "98cad5abc67fce76c62454eb4ed8b061",
+            "FileName": "chinatown/image/head/head_24.unity3d"
+        },
+        {
+            "MD5": "7cc9ec177fe998d9612f09523361de47",
+            "FileName": "chinatown/image/head/head_25.unity3d"
+        },
+        {
+            "MD5": "e4969e128cf04b0f102c792f84864ba8",
+            "FileName": "chinatown/image/head/head_26.unity3d"
+        },
+        {
+            "MD5": "b72648ba571919521dafbdcafc96e5fa",
+            "FileName": "chinatown/image/head/head_27.unity3d"
+        },
+        {
+            "MD5": "54d6bf89bd8acefbd914b58d545834a8",
+            "FileName": "chinatown/image/head/head_28.unity3d"
+        },
+        {
+            "MD5": "4b76abdfe2607c9635e9c2d7098a1ef0",
+            "FileName": "chinatown/image/head/head_29.unity3d"
+        },
+        {
+            "MD5": "f23154a1707510f8d4c1260e547e77db",
+            "FileName": "chinatown/image/head/head_3.unity3d"
+        },
+        {
+            "MD5": "9bf91fdd1cf0759a6eb7cb936fe0891b",
+            "FileName": "chinatown/image/head/head_30.unity3d"
+        },
+        {
+            "MD5": "254f9ccb6aa1c2f1928dca0922519383",
+            "FileName": "chinatown/image/head/head_31.unity3d"
+        },
+        {
+            "MD5": "f49077cdec36df75411e23cbd4336816",
+            "FileName": "chinatown/image/head/head_32.unity3d"
+        },
+        {
+            "MD5": "bfa83af182997c9819496f3964a86342",
+            "FileName": "chinatown/image/head/head_33.unity3d"
+        },
+        {
+            "MD5": "e58acc0efc107826131c77a7346c634c",
+            "FileName": "chinatown/image/head/head_34.unity3d"
+        },
+        {
+            "MD5": "d7b38f6a0f8aba38b5c50255d3d4d478",
+            "FileName": "chinatown/image/head/head_35.unity3d"
+        },
+        {
+            "MD5": "ab653f7e68201f798ffa10c40b8c98f9",
+            "FileName": "chinatown/image/head/head_36.unity3d"
+        },
+        {
+            "MD5": "f0a44caea120eb34b3799aab2977273f",
+            "FileName": "chinatown/image/head/head_37.unity3d"
+        },
+        {
+            "MD5": "b140b4dd0ce358e611535511d93b6545",
+            "FileName": "chinatown/image/head/head_38.unity3d"
+        },
+        {
+            "MD5": "10be9e39c5ceb54c819eb62c6b2381f5",
+            "FileName": "chinatown/image/head/head_39.unity3d"
+        },
+        {
+            "MD5": "97aa991385e430cf9edd8136d0dec239",
+            "FileName": "chinatown/image/head/head_4.unity3d"
+        },
+        {
+            "MD5": "cdd6839c2a344aebe7daae33eb7929af",
+            "FileName": "chinatown/image/head/head_40.unity3d"
+        },
+        {
+            "MD5": "8b914f9893c77c16e935ff656125d08a",
+            "FileName": "chinatown/image/head/head_41.unity3d"
+        },
+        {
+            "MD5": "7f9d74a38c06cd5160df0ec9bb2d677e",
+            "FileName": "chinatown/image/head/head_42.unity3d"
+        },
+        {
+            "MD5": "20cac3c4831ccfad8d15cd11c480b4a9",
+            "FileName": "chinatown/image/head/head_43.unity3d"
+        },
+        {
+            "MD5": "11dadd9208cf822c0e1b79848a93a011",
+            "FileName": "chinatown/image/head/head_44.unity3d"
+        },
+        {
+            "MD5": "567e102dc016f9bea58622df491b8397",
+            "FileName": "chinatown/image/head/head_45.unity3d"
+        },
+        {
+            "MD5": "6a4e88a552c693f76da0a40f318dbab5",
+            "FileName": "chinatown/image/head/head_46.unity3d"
+        },
+        {
+            "MD5": "321dad07dc4b14ded705de3875216c10",
+            "FileName": "chinatown/image/head/head_47.unity3d"
+        },
+        {
+            "MD5": "1e132bfef5d99e7a917e7c65bafc9501",
+            "FileName": "chinatown/image/head/head_48.unity3d"
+        },
+        {
+            "MD5": "a10499c8fb50285f065e1d60238e8312",
+            "FileName": "chinatown/image/head/head_49.unity3d"
+        },
+        {
+            "MD5": "ccd60fe6eaeb659e03d3ee62c1d1cbf1",
+            "FileName": "chinatown/image/head/head_5.unity3d"
+        },
+        {
+            "MD5": "5f5d9bbcc506e226c68facbabae99bd9",
+            "FileName": "chinatown/image/head/head_50.unity3d"
+        },
+        {
+            "MD5": "327b9d5c5b5fbd27b5bccd3953a53cea",
+            "FileName": "chinatown/image/head/head_51.unity3d"
+        },
+        {
+            "MD5": "c6d80c71dfbb4b5213a09a1daa9b2a5f",
+            "FileName": "chinatown/image/head/head_52.unity3d"
+        },
+        {
+            "MD5": "f736227ed023460dc61d4892c0385d62",
+            "FileName": "chinatown/image/head/head_53.unity3d"
+        },
+        {
+            "MD5": "301c3c6ae296c848cd3f0f0ab69b3a42",
+            "FileName": "chinatown/image/head/head_54.unity3d"
+        },
+        {
+            "MD5": "f3c06343e1e13b9b8940995dc79a6206",
+            "FileName": "chinatown/image/head/head_55.unity3d"
+        },
+        {
+            "MD5": "77d45013e3181d670b71f4c09f62d431",
+            "FileName": "chinatown/image/head/head_56.unity3d"
+        },
+        {
+            "MD5": "7d2c9542d0b50e54cc17afcae688e203",
+            "FileName": "chinatown/image/head/head_57.unity3d"
+        },
+        {
+            "MD5": "f348c2289acac91acfa08a832ba18fe5",
+            "FileName": "chinatown/image/head/head_58.unity3d"
+        },
+        {
+            "MD5": "b26cb4f6c2cf989783cbf26a241f36b7",
+            "FileName": "chinatown/image/head/head_59.unity3d"
+        },
+        {
+            "MD5": "9bc42ccc6d6b923aab0a7a02b191bcd4",
+            "FileName": "chinatown/image/head/head_6.unity3d"
+        },
+        {
+            "MD5": "bc81971419f6e06cce55eaa189e11525",
+            "FileName": "chinatown/image/head/head_60.unity3d"
+        },
+        {
+            "MD5": "fed976604a634f185cbe3ed7a6676080",
+            "FileName": "chinatown/image/head/head_61.unity3d"
+        },
+        {
+            "MD5": "0ae7382dbc2ae9f5ae5ddac214f4ceac",
+            "FileName": "chinatown/image/head/head_62.unity3d"
+        },
+        {
+            "MD5": "3ec566af9c3e985be284e3536f2c71bc",
+            "FileName": "chinatown/image/head/head_63.unity3d"
+        },
+        {
+            "MD5": "beb60a326297262edf37e867aaca7b15",
+            "FileName": "chinatown/image/head/head_64.unity3d"
+        },
+        {
+            "MD5": "37154b257c17189460ead89dfb08c4a6",
+            "FileName": "chinatown/image/head/head_65.unity3d"
+        },
+        {
+            "MD5": "d6cb3076f876766efb2ef6f9172984a8",
+            "FileName": "chinatown/image/head/head_66.unity3d"
+        },
+        {
+            "MD5": "87c48c0c27c7d89d5f63db3836bae781",
+            "FileName": "chinatown/image/head/head_67.unity3d"
+        },
+        {
+            "MD5": "cf87ffafa03a04475e540f6abbcf92ef",
+            "FileName": "chinatown/image/head/head_68.unity3d"
+        },
+        {
+            "MD5": "3632a7a979e33c2c841161b9fe426904",
+            "FileName": "chinatown/image/head/head_69.unity3d"
+        },
+        {
+            "MD5": "0089be60af86ac020d9d5f40a48bbdf6",
+            "FileName": "chinatown/image/head/head_7.unity3d"
+        },
+        {
+            "MD5": "c74d7c77e9d77607b266a5c3bc1de698",
+            "FileName": "chinatown/image/head/head_70.unity3d"
+        },
+        {
+            "MD5": "9d44488d60a7c1824ccf18ab9f4d3d2f",
+            "FileName": "chinatown/image/head/head_71.unity3d"
+        },
+        {
+            "MD5": "019a67e4195b2f0f030570123c2e4054",
+            "FileName": "chinatown/image/head/head_72.unity3d"
+        },
+        {
+            "MD5": "8a085e2c73e454652abc440f82a6807b",
+            "FileName": "chinatown/image/head/head_8.unity3d"
+        },
+        {
+            "MD5": "54664b0a9a078d0434ed5954ed7b07be",
+            "FileName": "chinatown/image/head/head_9.unity3d"
+        },
+        {
+            "MD5": "8bc74430bf18d7142e6efe06d91baeb5",
+            "FileName": "chinatown/image/icon/horse.unity3d"
+        },
+        {
+            "MD5": "f9451bac4cd61286a43a974e4a99ae28",
+            "FileName": "chinatown/image/icon/kick.unity3d"
+        },
+        {
+            "MD5": "d51171bc4eb51835c6747a15e4e400fa",
+            "FileName": "chinatown/image/icon/leave.unity3d"
+        },
+        {
+            "MD5": "ff2b6a9bad0ef21850db87ecf737b1c6",
+            "FileName": "chinatown/image/icon/question.unity3d"
+        },
+        {
+            "MD5": "0a11202f5fd5f9399a21efac9c25f380",
+            "FileName": "chinatown/image/icon/setting.unity3d"
+        },
+        {
+            "MD5": "6c0e2cb3b13ebfcf65aa3674946c318b",
+            "FileName": "chinatown/image/icon/signal.unity3d"
+        },
+        {
+            "MD5": "f9ed058e5c93908f01bf88f2664cd425",
+            "FileName": "chinatown/image/icon/signaleffect.unity3d"
+        },
+        {
+            "MD5": "ff2a80ac267c1ff6e28f68f6a1e7e2cb",
+            "FileName": "chinatown/image/icon/star.unity3d"
+        },
+        {
+            "MD5": "433c77376174ce70e879c150740e7b35",
+            "FileName": "chinatown/image/icon/trade.unity3d"
+        },
+        {
+            "MD5": "086abee02fddd307e06cd0b0d8a67016",
+            "FileName": "chinatown/image/icon/tradeflag.unity3d"
+        },
+        {
+            "MD5": "c5611888d73909fd063cf99b2e6a1e7a",
+            "FileName": "chinatown/image/icon/trading.unity3d"
+        },
+        {
+            "MD5": "a6a9fdcf2ac812c3e0b2a6b60ce71e73",
+            "FileName": "chinatown/image/icon/year.unity3d"
+        },
+        {
+            "MD5": "40090a2447d5fe75845e099913a5d3fb",
+            "FileName": "chinatown/image/shop/shop_1.unity3d"
+        },
+        {
+            "MD5": "9ca6a0ff4a84267d67c43a34b860048c",
+            "FileName": "chinatown/image/shop/shop_10.unity3d"
+        },
+        {
+            "MD5": "3963058e0788d97eea29b096fc714ea3",
+            "FileName": "chinatown/image/shop/shop_11.unity3d"
+        },
+        {
+            "MD5": "5ddc75af93113f1c799f0217d73ed37a",
+            "FileName": "chinatown/image/shop/shop_12.unity3d"
+        },
+        {
+            "MD5": "41a07ee346e838cf13bba204097725ff",
+            "FileName": "chinatown/image/shop/shop_2.unity3d"
+        },
+        {
+            "MD5": "5fb58f73c3bec2618976b00f4da41e80",
+            "FileName": "chinatown/image/shop/shop_3.unity3d"
+        },
+        {
+            "MD5": "eee129368f99a11e55a9a5cf585e61a1",
+            "FileName": "chinatown/image/shop/shop_4.unity3d"
+        },
+        {
+            "MD5": "65859b36718b27b3358711c5df2edaae",
+            "FileName": "chinatown/image/shop/shop_5.unity3d"
+        },
+        {
+            "MD5": "9d93dc26e37d8564621499d13aeea669",
+            "FileName": "chinatown/image/shop/shop_6.unity3d"
+        },
+        {
+            "MD5": "8527c4bf87a9644caff7c154b7f1d2f6",
+            "FileName": "chinatown/image/shop/shop_7.unity3d"
+        },
+        {
+            "MD5": "8032935bc4292f72d8d07927c4807cf3",
+            "FileName": "chinatown/image/shop/shop_8.unity3d"
+        },
+        {
+            "MD5": "0a3843a21e67d1c30cf47706ef7c52bc",
+            "FileName": "chinatown/image/shop/shop_9.unity3d"
+        },
+        {
+            "MD5": "cdb4ede4bde0ab39aae56ba1f6748b86",
+            "FileName": "chinatown/lua/core/class.lua.unity3d"
+        },
+        {
+            "MD5": "5a9680b0639438a4b2371bdbb9912210",
+            "FileName": "chinatown/lua/core/global.lua.unity3d"
+        },
+        {
+            "MD5": "63da43bf42e610e03c541a1444d5108b",
+            "FileName": "chinatown/lua/core/string.lua.unity3d"
+        },
+        {
+            "MD5": "a31cc88db96864ed24bea99640effc91",
+            "FileName": "chinatown/lua/core/table.lua.unity3d"
+        },
+        {
+            "MD5": "69adbfaeaca91ae93b9c1aeff377f066",
+            "FileName": "chinatown/lua/game/cross/cross.lua.unity3d"
+        },
+        {
+            "MD5": "43c81f73d48ca92779db312c89941789",
+            "FileName": "chinatown/lua/game/cross/gamedefines.lua.unity3d"
+        },
+        {
+            "MD5": "5031aedf6dba8ab42fb6d4df52c07537",
+            "FileName": "chinatown/lua/game/cross/netdefine.lua.unity3d"
+        },
+        {
+            "MD5": "44cfb9b5392dc722091e2306f7282e4d",
+            "FileName": "chinatown/lua/game/data/chinatowndata.lua.unity3d"
+        },
+        {
+            "MD5": "d93e829f91f3a032148508b63c3802f4",
+            "FileName": "chinatown/lua/game/data/chinatowneffect.lua.unity3d"
+        },
+        {
+            "MD5": "f80408e779392651eec3a2e98210eca9",
+            "FileName": "chinatown/lua/game/data/chinatownres.lua.unity3d"
+        },
+        {
+            "MD5": "400396d555d7fc191255a7c571f175da",
+            "FileName": "chinatown/lua/game/data/chinatowntool.lua.unity3d"
+        },
+        {
+            "MD5": "919a75cba0da6ba87fa0743ea40f8ee4",
+            "FileName": "chinatown/lua/game/data/data.lua.unity3d"
+        },
+        {
+            "MD5": "bce3ad025a356410a1037f5fc438dfb2",
+            "FileName": "chinatown/lua/game/gamemain/cbackgroundview.lua.unity3d"
+        },
+        {
+            "MD5": "70e61d1f4efa3dc6b30d56c60f32b673",
+            "FileName": "chinatown/lua/game/gamemain/cgamechatview.lua.unity3d"
+        },
+        {
+            "MD5": "7f7f13d9343143a3b652f7b94dee58dd",
+            "FileName": "chinatown/lua/game/gamemain/cgamectrl.lua.unity3d"
+        },
+        {
+            "MD5": "6b7c8b4ba45b031e875d03b94ca9eda2",
+            "FileName": "chinatown/lua/game/gamemain/cgameview.lua.unity3d"
+        },
+        {
+            "MD5": "fc3e46424ed195fb2e35d7e65a6b8099",
+            "FileName": "chinatown/lua/game/gamemain/chelpview.lua.unity3d"
+        },
+        {
+            "MD5": "4e37fe2f071a7526f80b3656a6fed88b",
+            "FileName": "chinatown/lua/game/gamemain/clocation.lua.unity3d"
+        },
+        {
+            "MD5": "e7cefe0bbe95e5e379c493a90d4fee4a",
+            "FileName": "chinatown/lua/game/gamemain/clookshopview.lua.unity3d"
+        },
+        {
+            "MD5": "3395d20dfc37d88f36198f3035c0ff6d",
+            "FileName": "chinatown/lua/game/gamemain/coptionview.lua.unity3d"
+        },
+        {
+            "MD5": "1f1faa7cef74dff7653f7888f9b8d898",
+            "FileName": "chinatown/lua/game/gamemain/cplayer.lua.unity3d"
+        },
+        {
+            "MD5": "d5dc0951715cee12d29a2cbfdb8af9f7",
+            "FileName": "chinatown/lua/game/gamemain/cplayerinfo.lua.unity3d"
+        },
+        {
+            "MD5": "208023ea875e8a54240a91c43d076a0b",
+            "FileName": "chinatown/lua/game/gamemain/cplayerinfoview.lua.unity3d"
+        },
+        {
+            "MD5": "de4683389be5348688244b702bc57fc4",
+            "FileName": "chinatown/lua/game/gamemain/crankinfo.lua.unity3d"
+        },
+        {
+            "MD5": "325596bbe68f7e64785be41667cce71b",
+            "FileName": "chinatown/lua/game/gamemain/crankview.lua.unity3d"
+        },
+        {
+            "MD5": "0c1d9f16a64286493da2aecc3dc8fb82",
+            "FileName": "chinatown/lua/game/gamemain/cselectiongrid.lua.unity3d"
+        },
+        {
+            "MD5": "dff91e031c67ef8c93818aa23585a024",
+            "FileName": "chinatown/lua/game/gamemain/cselectionview.lua.unity3d"
+        },
+        {
+            "MD5": "c4f6240103ae5741bed3e73a4461d808",
+            "FileName": "chinatown/lua/game/gamemain/cshopcard.lua.unity3d"
+        },
+        {
+            "MD5": "e8ece52b789a6469a41f7a22bb58425f",
+            "FileName": "chinatown/lua/game/gamemain/cshopview.lua.unity3d"
+        },
+        {
+            "MD5": "7d829024fefeed66538a012c90bdabde",
+            "FileName": "chinatown/lua/game/gamemain/ctradeflag.lua.unity3d"
+        },
+        {
+            "MD5": "49bbaa1a5566f842ca285e847a0b8eaa",
+            "FileName": "chinatown/lua/game/gamemain/ctradeinfo.lua.unity3d"
+        },
+        {
+            "MD5": "26b048ef307c1bfaeb6cc5279a1086f6",
+            "FileName": "chinatown/lua/game/gamemain/ctradeview.lua.unity3d"
+        },
+        {
+            "MD5": "35f72e9913600b278fa4bf9ac468af21",
+            "FileName": "chinatown/lua/game/gamemain/cyearview.lua.unity3d"
+        },
+        {
+            "MD5": "7a4d6735223cf53fc09ee2f09ed75210",
+            "FileName": "chinatown/lua/game/gamemain/gamemain.lua.unity3d"
+        },
+        {
+            "MD5": "f681a5a70c10bc61ccf0ab24734a5756",
+            "FileName": "chinatown/lua/game/home/cattrctrl.lua.unity3d"
+        },
+        {
+            "MD5": "453c7269cf464c657ec267a98fd18d77",
+            "FileName": "chinatown/lua/game/home/cchatctrl.lua.unity3d"
+        },
+        {
+            "MD5": "bfef015737e9ca9fe286a82b071bbf9f",
+            "FileName": "chinatown/lua/game/home/chomeview.lua.unity3d"
+        },
+        {
+            "MD5": "a6645829946dd3889faf0e35d4bf3f6b",
+            "FileName": "chinatown/lua/game/home/cjoinroomview.lua.unity3d"
+        },
+        {
+            "MD5": "cd1f6169cfe979489b61150fddcfe7b5",
+            "FileName": "chinatown/lua/game/home/croomchatview.lua.unity3d"
+        },
+        {
+            "MD5": "c6e1358c8913085c6669bbd5daf40faa",
+            "FileName": "chinatown/lua/game/home/croomctrl.lua.unity3d"
+        },
+        {
+            "MD5": "fe3b800046e3d27c06b7da819087e5c8",
+            "FileName": "chinatown/lua/game/home/croommember.lua.unity3d"
+        },
+        {
+            "MD5": "7059a0c706703bb98fa9ca7c0bffb9cd",
+            "FileName": "chinatown/lua/game/home/croomview.lua.unity3d"
+        },
+        {
+            "MD5": "34da32841c398fc20b7f1a034c468efa",
+            "FileName": "chinatown/lua/game/home/home.lua.unity3d"
+        },
+        {
+            "MD5": "80652e577f4721fe548ff0b34d927d7b",
+            "FileName": "chinatown/lua/game/login/ccreateplayerview.lua.unity3d"
+        },
+        {
+            "MD5": "4955b9e4720767ad2a7abb4b0c02bb6f",
+            "FileName": "chinatown/lua/game/login/cloginctrl.lua.unity3d"
+        },
+        {
+            "MD5": "3e5c79c2a2f512184d997411f2641747",
+            "FileName": "chinatown/lua/game/login/cloginview.lua.unity3d"
+        },
+        {
+            "MD5": "aba3882c43fcc9b5c6e41f484ded0f5f",
+            "FileName": "chinatown/lua/game/login/login.lua.unity3d"
+        },
+        {
+            "MD5": "b6df8db918a41691be2fa23ce543dcce",
+            "FileName": "chinatown/lua/game/net/cservertimectrl.lua.unity3d"
+        },
+        {
+            "MD5": "853695747d0b159e3db55a3dcf2bab85",
+            "FileName": "chinatown/lua/game/net/net.lua.unity3d"
+        },
+        {
+            "MD5": "86f11605982bad0a62333080d5347eff",
+            "FileName": "chinatown/lua/game/net/netbattle.lua.unity3d"
+        },
+        {
+            "MD5": "24164cc698b1f0c788d9251d1fb60bd5",
+            "FileName": "chinatown/lua/game/net/netchat.lua.unity3d"
+        },
+        {
+            "MD5": "a3e0829024319bcdc1cf743488c9cf20",
+            "FileName": "chinatown/lua/game/net/netlogin.lua.unity3d"
+        },
+        {
+            "MD5": "497201f45e2139d814a8526212e4a7bd",
+            "FileName": "chinatown/lua/game/net/netother.lua.unity3d"
+        },
+        {
+            "MD5": "91f38591c5fc15b460841e2f548d2ec8",
+            "FileName": "chinatown/lua/game/net/netplayer.lua.unity3d"
+        },
+        {
+            "MD5": "01c378d00b3a1dba9f110ee9c04a76a9",
+            "FileName": "chinatown/lua/game/net/netroom.lua.unity3d"
+        },
+        {
+            "MD5": "f82e1d5b0ef253432f0fc957d0b75ff1",
+            "FileName": "chinatown/lua/game/net/netverify.lua.unity3d"
+        },
+        {
+            "MD5": "4c98b133f0f4b32e563065c5b3893961",
+            "FileName": "chinatown/lua/game/scene/scene.lua.unity3d"
+        },
+        {
+            "MD5": "1a17437bc5c9dbbe177f9c3f5acec56d",
+            "FileName": "chinatown/lua/game/scene/sgamemain.lua.unity3d"
+        },
+        {
+            "MD5": "2db4cc978cd5d7f2a2d7c50d6793e59b",
+            "FileName": "chinatown/lua/game/scene/shome.lua.unity3d"
+        },
+        {
+            "MD5": "23276d2abeac0782f8090e24b705c7c8",
+            "FileName": "chinatown/lua/game/scene/slogin.lua.unity3d"
+        },
+        {
+            "MD5": "267f53176ad5d79803292e73d319a0a4",
+            "FileName": "chinatown/lua/game/ui/cchatbox.lua.unity3d"
+        },
+        {
+            "MD5": "6fa75ebe8744ca6417cd413fd344d794",
+            "FileName": "chinatown/lua/game/ui/ccursorview.lua.unity3d"
+        },
+        {
+            "MD5": "e4e1c972ffb817c6ebab354bca269f0d",
+            "FileName": "chinatown/lua/game/ui/cloadingview.lua.unity3d"
+        },
+        {
+            "MD5": "1bb42bca69765d6821214b3c792387f9",
+            "FileName": "chinatown/lua/game/ui/cnotify.lua.unity3d"
+        },
+        {
+            "MD5": "4c78ff6c6e48b7855117fb4bbcc18009",
+            "FileName": "chinatown/lua/game/ui/cnotifyview.lua.unity3d"
+        },
+        {
+            "MD5": "c47154aafcf37c21978ff5c2a94c1a93",
+            "FileName": "chinatown/lua/game/ui/csettingview.lua.unity3d"
+        },
+        {
+            "MD5": "2c145fd9e990a802d80552433f655686",
+            "FileName": "chinatown/lua/game/ui/ui.lua.unity3d"
+        },
+        {
+            "MD5": "c89ab2972277df6e7d8732ad5efdd1d9",
+            "FileName": "chinatown/lua/game/eventdefine.lua.unity3d"
+        },
+        {
+            "MD5": "5f1d0d638b8066d72d932ab286faf2c2",
+            "FileName": "chinatown/lua/game/game.lua.unity3d"
+        },
+        {
+            "MD5": "d074d702f142301840bbad0406601548",
+            "FileName": "chinatown/lua/logic/base/base.lua.unity3d"
+        },
+        {
+            "MD5": "263c413a200f25a180ecf0fa70a16516",
+            "FileName": "chinatown/lua/logic/base/cabrequest.lua.unity3d"
+        },
+        {
+            "MD5": "1bd777b0756813d10633d892880cea13",
+            "FileName": "chinatown/lua/logic/base/caudioctrl.lua.unity3d"
+        },
+        {
+            "MD5": "f8da0cf5542e7f2e513b90329cf3e939",
+            "FileName": "chinatown/lua/logic/base/cctrlbase.lua.unity3d"
+        },
+        {
+            "MD5": "d897f6eadb80b36d370160a8ff06adb0",
+            "FileName": "chinatown/lua/logic/base/cdelaycallbase.lua.unity3d"
+        },
+        {
+            "MD5": "1278a86f92482ef27f98b1e427d59617",
+            "FileName": "chinatown/lua/logic/base/cgameobjcontainer.lua.unity3d"
+        },
+        {
+            "MD5": "6f74bd30fb2ad550555f5ee72188aeb7",
+            "FileName": "chinatown/lua/logic/base/clientdata.lua.unity3d"
+        },
+        {
+            "MD5": "b62aff64a94271abe4911a0ece41c0cf",
+            "FileName": "chinatown/lua/logic/base/cobject.lua.unity3d"
+        },
+        {
+            "MD5": "b9334a338a346617beed963bbe1e0d48",
+            "FileName": "chinatown/lua/logic/base/coroutine.lua.unity3d"
+        },
+        {
+            "MD5": "7517bfb4562ad11ce8d04819727b6286",
+            "FileName": "chinatown/lua/logic/base/cresctrl.lua.unity3d"
+        },
+        {
+            "MD5": "7a4a15f14902cd4ddb2d1ab798b2097d",
+            "FileName": "chinatown/lua/logic/base/cresrequest.lua.unity3d"
+        },
+        {
+            "MD5": "b7780142d792801119fd2ec2d1cb1981",
+            "FileName": "chinatown/lua/logic/base/ctimerctrl.lua.unity3d"
+        },
+        {
+            "MD5": "c814a77ac24860fbfb554708f18e6932",
+            "FileName": "chinatown/lua/logic/base/utils.lua.unity3d"
+        },
+        {
+            "MD5": "1a53e62b2372c1b9964bf519ceb00624",
+            "FileName": "chinatown/lua/logic/net/cnetctrl.lua.unity3d"
+        },
+        {
+            "MD5": "b234c0ef44d1c380819db0220407f4af",
+            "FileName": "chinatown/lua/logic/net/net.lua.unity3d"
+        },
+        {
+            "MD5": "c4b73a35399c07cda4fe206931fe86f9",
+            "FileName": "chinatown/lua/logic/net/netproto.lua.unity3d"
+        },
+        {
+            "MD5": "1b97a2d546a9e4a1f27f374d1b7de468",
+            "FileName": "chinatown/lua/logic/net/protobuf.lua.unity3d"
+        },
+        {
+            "MD5": "b72b010e37f8d2d3276df33a91cc17d8",
+            "FileName": "chinatown/lua/logic/scene/cbasescene.lua.unity3d"
+        },
+        {
+            "MD5": "164cd5246fdc370ea6b718d7366bf111",
+            "FileName": "chinatown/lua/logic/scene/cscenectrl.lua.unity3d"
+        },
+        {
+            "MD5": "6b83ce55e2e8d9a09ce34f25c95aaa73",
+            "FileName": "chinatown/lua/logic/scene/scene.lua.unity3d"
+        },
+        {
+            "MD5": "48ff69274475112abf3dc2d0e9608ab4",
+            "FileName": "chinatown/lua/logic/ui/cbutton.lua.unity3d"
+        },
+        {
+            "MD5": "5fdded6d52746c7113ea79862ef68854",
+            "FileName": "chinatown/lua/logic/ui/clayer.lua.unity3d"
+        },
+        {
+            "MD5": "dabfe653990f7f1eaf0d4563fe240a79",
+            "FileName": "chinatown/lua/logic/ui/cuieffect.lua.unity3d"
+        },
+        {
+            "MD5": "104e5019e91570ec66485bb2033f7281",
+            "FileName": "chinatown/lua/logic/ui/cuieffectctrl.lua.unity3d"
+        },
+        {
+            "MD5": "bf0cb501b2a746eb7160fc15e33ca058",
+            "FileName": "chinatown/lua/logic/ui/cviewbase.lua.unity3d"
+        },
+        {
+            "MD5": "7359225c9494720c1ab3efc04a375168",
+            "FileName": "chinatown/lua/logic/ui/cviewctrl.lua.unity3d"
+        },
+        {
+            "MD5": "c62e451c6bd23273b79ca580ba5346ba",
+            "FileName": "chinatown/lua/logic/ui/sortinglayernames.lua.unity3d"
+        },
+        {
+            "MD5": "03b119fb2b7d3fdab8f49248a78852dd",
+            "FileName": "chinatown/lua/logic/ui/ui.lua.unity3d"
+        },
+        {
+            "MD5": "3d54dc5cde78ed37113d7bcc9708c818",
+            "FileName": "chinatown/lua/logic/ui/uiutil.lua.unity3d"
+        },
+        {
+            "MD5": "43c6641da53eea4fd37426c6d65c8c3d",
+            "FileName": "chinatown/lua/logic/classtype.lua.unity3d"
+        },
+        {
+            "MD5": "b7d61b5e233bb476d0ff9d53fdfdd1c8",
+            "FileName": "chinatown/lua/logic/logic.lua.unity3d"
+        },
+        {
+            "MD5": "93a326ccaa201cc875c9d801259c8fba",
+            "FileName": "chinatown/lua/preload/color.lua.unity3d"
+        },
+        {
+            "MD5": "75561b4bcecec4cfb020ff761ea01ef4",
+            "FileName": "chinatown/lua/preload/mathf.lua.unity3d"
+        },
+        {
+            "MD5": "5d749543c070f4733454d79f2ee69036",
+            "FileName": "chinatown/lua/preload/preload.lua.unity3d"
+        },
+        {
+            "MD5": "bb511d1a5ea0145adf1f3793fc5d3c41",
+            "FileName": "chinatown/lua/preload/time.lua.unity3d"
+        },
+        {
+            "MD5": "5b1c77b29c497e8f1a826b5a03263a8f",
+            "FileName": "chinatown/lua/preload/vector2.lua.unity3d"
+        },
+        {
+            "MD5": "f2da216b0984538fd9030ed2aac8ef76",
+            "FileName": "chinatown/lua/preload/vector3.lua.unity3d"
+        },
+        {
+            "MD5": "7b31bbdfa582fc8a1e6fc633076a56f7",
+            "FileName": "chinatown/lua/main.lua.unity3d"
+        },
+        {
+            "MD5": "91a3cef9de3ee2c84dcd77b8a63cc704",
+            "FileName": "chinatown/proto/proto.pb.unity3d"
+        },
+        {
+            "MD5": "24baeb72f0a9e985c800a74811a8700f",
+            "FileName": "chinatown/ui/common/cursorview.unity3d"
+        },
+        {
+            "MD5": "694b2986cbcefe045b250203b57ed985",
+            "FileName": "chinatown/ui/common/initview.unity3d"
+        },
+        {
+            "MD5": "97ec82b77e51b9475ece81a8f985befb",
+            "FileName": "chinatown/ui/common/loadingview.unity3d"
+        },
+        {
+            "MD5": "9693701c28f27a04f34a1599b636b745",
+            "FileName": "chinatown/ui/common/notifyview.unity3d"
+        },
+        {
+            "MD5": "83ed431a6d0702ef58b7a98e3853536f",
+            "FileName": "chinatown/ui/common/settingview.unity3d"
+        },
+        {
+            "MD5": "2eb9e773b06f951fee876474c07a3b0b",
+            "FileName": "chinatown/ui/gamemain/backgroundview.unity3d"
+        },
+        {
+            "MD5": "a3faea29e4acc18e3aa23d3ed636782e",
+            "FileName": "chinatown/ui/gamemain/gamechatview.unity3d"
+        },
+        {
+            "MD5": "e50b323187bea2358f5e2087217b1c7d",
+            "FileName": "chinatown/ui/gamemain/gameview.unity3d"
+        },
+        {
+            "MD5": "a34d4ed813c24c6dc44b5f03b8f8422a",
+            "FileName": "chinatown/ui/gamemain/helpview.unity3d"
+        },
+        {
+            "MD5": "3095d16a318569a456b5602e24f6bfdc",
+            "FileName": "chinatown/ui/gamemain/lookshopview.unity3d"
+        },
+        {
+            "MD5": "92564bdb3aaf8fea0d1ebbf7a2b018bc",
+            "FileName": "chinatown/ui/gamemain/optionview.unity3d"
+        },
+        {
+            "MD5": "02eb2ff52e85dbd321eb5e052462916e",
+            "FileName": "chinatown/ui/gamemain/playerinfoview.unity3d"
+        },
+        {
+            "MD5": "371ca1a497b20d5d0d604fdd8b14caca",
+            "FileName": "chinatown/ui/gamemain/rankview.unity3d"
+        },
+        {
+            "MD5": "ef17bf7dcf58cdc133fbefe8c142af23",
+            "FileName": "chinatown/ui/gamemain/selectionview.unity3d"
+        },
+        {
+            "MD5": "3568fd2c16cb2925e48ea978d868fc44",
+            "FileName": "chinatown/ui/gamemain/shopview.unity3d"
+        },
+        {
+            "MD5": "0d78e83acb0ae32033525c70c4cff238",
+            "FileName": "chinatown/ui/gamemain/tradeview.unity3d"
+        },
+        {
+            "MD5": "c51f3506c92f34449253c90b3a00d0d8",
+            "FileName": "chinatown/ui/gamemain/yearview.unity3d"
+        },
+        {
+            "MD5": "26316ad9b3f7dd8794dd0ab809922f8c",
+            "FileName": "chinatown/ui/home/homeview.unity3d"
+        },
+        {
+            "MD5": "eb0ee3f0ac5271679e8aadc7bce5a6ce",
+            "FileName": "chinatown/ui/home/joinroomview.unity3d"
+        },
+        {
+            "MD5": "91ad27408eab57ef1f2d41ec743e255f",
+            "FileName": "chinatown/ui/home/roomchatview.unity3d"
+        },
+        {
+            "MD5": "065733bb175ebde08bb4c3d994eaaeab",
+            "FileName": "chinatown/ui/home/roomview.unity3d"
+        },
+        {
+            "MD5": "a9f8e0c07b7bbf36b5c9e592bb51e6cc",
+            "FileName": "chinatown/ui/login/createplayerview.unity3d"
+        },
+        {
+            "MD5": "4ea156e307f881938af1e4cc683eab0b",
+            "FileName": "chinatown/ui/login/loginview.unity3d"
+        }
+    ]
+}

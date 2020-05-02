@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1905560780
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d03c8f47eb5782de39e19400df395173
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fb8140488f455f4790daa08bbd20d3c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/UI/GameMain/BackgroundView.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/image/background/map.unity3d
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/image/background/map_fix.unity3d
+- C:/Users/Administrator/Desktop/Server/Windows/chinatown/image/background/player.unity3d

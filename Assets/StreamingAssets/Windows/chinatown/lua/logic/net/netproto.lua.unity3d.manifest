@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4235561440
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d131a4b2211e404327657bf54aced0c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/logic/net/NetProto.lua.bytes
+Dependencies: []

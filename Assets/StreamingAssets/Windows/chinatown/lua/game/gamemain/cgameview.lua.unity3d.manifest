@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 4060688388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e956cf5bf789ae94cd6a99f25345ce0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/ChinaTown/Lua/game/gamemain/CGameView.lua.bytes
+Dependencies: []
